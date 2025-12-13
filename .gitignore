@@ -1,3 +1,6 @@
 .vscode-server/
 .wget-hsts
 *.tar.gz
+.vscode-server/
+.wget-hsts
+*.tar.gz
